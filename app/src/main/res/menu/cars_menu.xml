@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/viewPic"
+        android:title="View the entire picture" />
+
+    <item android:id="@+id/showPage"
+        android:title="Show the official web page" />
+
+    <item android:id="@+id/showDealers"
+        android:title="Show car dealers" />
+</menu>

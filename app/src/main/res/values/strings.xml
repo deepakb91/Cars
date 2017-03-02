@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Cars</string>
+
+    <string-array name="carName">
+        <item>Audi</item>
+        <item>Benz</item>
+        <item>Bmw</item>
+        <item>Jaguar</item>
+        <item>Infiniti</item>
+        <item>Lamborghini</item>
+    </string-array>
+
+    <string-array name="carPage">
+        <item>https://www.audiusa.com/</item>
+        <item>https://www.mbusa.com/mercedes/index</item>
+        <item>http://www.bmwusa.com/</item>
+        <item>http://www.jaguarusa.com/index.html</item>
+        <item>http://www.infinitiusa.com/</item>
+        <item>https://www.lamborghini.com/</item>
+    </string-array>
+
+    <string-array name="name1">
+        <item>John</item>
+        <item>Mike</item>
+        <item>Philip</item>
+    </string-array>
+    <string-array name="name2">
+        <item>Jim</item>
+        <item>Henry</item>
+        <item>Harry</item>
+    </string-array>
+    <string-array name="name3">
+        <item>Jade</item>
+        <item>Rob</item>
+        <item>Nick</item>
+    </string-array>
+    <string-array name="name4">
+        <item>Paul</item>
+        <item>Zhu</item>
+        <item>Karl</item>
+    </string-array>
+    <string-array name="name5">
+        <item>Tom</item>
+        <item>Ralph</item>
+        <item>Walter</item>
+    </string-array>
+    <string-array name="name6">
+        <item>Tommy</item>
+        <item>Louis</item>
+        <item>Dave</item>
+    </string-array>
+    <string-array name="address1">
+        <item>1210, W Madison, Chicago, 60011</item>
+        <item>1356, N State Street, Chicago, 60019</item>
+        <item>2132, Adams Blvd, Chicago, 60057</item>
+    </string-array>
+    <string-array name="address2">
+        <item>1210, W Michigan, Chicago, 60031</item>
+        <item>1356, N Polk Street, Chicago, 60042</item>
+        <item>2132, Niles Blvd, Chicago, 60257</item>
+    </string-array>
+    <string-array name="address3">
+        <item>1210, W Harrison, Chicago, 60091</item>
+        <item>1356, S Halsted Street, Chicago, 60089</item>
+        <item>2132, Park Avenue, Chicago, 60077</item>
+    </string-array>
+    <string-array name="address4">
+        <item>1210, S Lake Street, Chicago, 60001</item>
+        <item>1356, W Racine, Chicago, 60329</item>
+        <item>2132, Milwaukee Blvd, Chicago, 62157</item>
+    </string-array>
+    <string-array name="address5">
+        <item>1210, N Madison, Chicago, 60011</item>
+        <item>1356, S State Street, Chicago, 60019</item>
+        <item>2132, Jade Blvd, Chicago, 60147</item>
+    </string-array>
+    <string-array name="address6">
+        <item>1210, S Laflin, Chicago,60092</item>
+        <item>1356, Park Bldv, Chicago, 60121</item>
+        <item>2132, N Harry Street, Chicago, 60131</item>
+    </string-array>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+
+</resources>
