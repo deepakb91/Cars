@@ -56,8 +56,12 @@ public class MainActivity extends Activity {
     public boolean onContextItemSelected(MenuItem item) {
         AdapterView.AdapterContextMenuInfo info = (AdapterView.AdapterContextMenuInfo) item.getMenuInfo();
         Intent i = new Intent(Intent.ACTION_VIEW);
+        return doUserAction(item.getItemId());
+    }
+
+    private boolean doUserAction(int itemId) {
         //determine which option is chosen by the user from the context menu and perform corresponding action
-        switch(item.getItemId()) {
+        switch(itemId) {
             case R.id.viewPic:
                 Intent intent = new Intent(getApplication(),ImageActivity.class);
                 intent.putExtra("position", info.position);
